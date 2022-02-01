@@ -2,7 +2,7 @@
 
 
 Sistema básico de cadastro da empresa Bless, para cadastro de produtos e serviços, feito em 1 semana de desenvolvimento.
-
+Sistema simples, fluido, responsivo, com clean code
 
 
 
